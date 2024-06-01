@@ -1,6 +1,6 @@
-name="datuna"
+name=“datuna”
 
-last_name="mikava"
+last_name=“mikava”
 
 age=14
 
@@ -29,6 +29,3 @@ print(22+23)
 print(11*11)
 print(18//2)
 print(100//2)
-
-
-
