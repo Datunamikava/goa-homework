@@ -1,4 +1,4 @@
-age1 = int(input("enter a number: "))
+age1 = int(("enter a number: ")input)
 print (age1)
  
 age2=int(input("enter an number: "))
